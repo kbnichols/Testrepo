@@ -1,6 +1,6 @@
 #TEST CODE FOR GITHUB EXERCISE
 #Edited by Katie Beth Nichols
-
+#Hello. It's me. KB. I'm back.
 
 #Sentiment Analysis Tutorial: Jane Austen
 # March 31, 2019
@@ -95,7 +95,7 @@ tidy_books %>%
 #
 library(ggplot2)
 #Quick Chart
-#
+#REVEL IN YOUR NERD POWERS!!!!
 tidy_books %>%
   count(word, sort = TRUE) %>%
   filter(n > 600) %>%
